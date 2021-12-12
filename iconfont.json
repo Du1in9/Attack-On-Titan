@@ -1,0 +1,86 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1001",
+      "name": "女人",
+      "font_class": "nvren",
+      "unicode": "f0048",
+      "unicode_decimal": 983112
+    },
+    {
+      "icon_id": "2306764",
+      "name": "BILIBILI_LOGO",
+      "font_class": "bilibili",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "2967297",
+      "name": "实物-锤子",
+      "font_class": "shiwu-chuizi",
+      "unicode": "e734",
+      "unicode_decimal": 59188
+    },
+    {
+      "icon_id": "3895868",
+      "name": "绿巨人",
+      "font_class": "lvjuren",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "4294102",
+      "name": "刀",
+      "font_class": "dao",
+      "unicode": "e794",
+      "unicode_decimal": 59284
+    },
+    {
+      "icon_id": "5961319",
+      "name": "人脑",
+      "font_class": "shenjing",
+      "unicode": "ec5e",
+      "unicode_decimal": 60510
+    },
+    {
+      "icon_id": "6186640",
+      "name": "猴子",
+      "font_class": "houzi",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "7865606",
+      "name": "11斗篷",
+      "font_class": "doupeng",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "8692391",
+      "name": "木马",
+      "font_class": "muma",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "14095333",
+      "name": "攻击",
+      "font_class": "gongji",
+      "unicode": "e795",
+      "unicode_decimal": 59285
+    },
+    {
+      "icon_id": "20009325",
+      "name": "shield盾牌",
+      "font_class": "shielddunpai",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    }
+  ]
+}
